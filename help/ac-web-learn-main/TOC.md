@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Web使用者介面
 user-guide-description: 瞭解如何使用Adobe Campaign網頁使用者介面的功能。
 breadcrumb-title: 網頁使用者介面 — Tutorials
 auto-video-transcripts: true
-source-git-commit: 23c66a47ee511950f7b190b5337ed83497972cde
+source-git-commit: 29188c839c08ca46313c2d9ea1f50bee2083f14b
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 12%
+source-wordcount: '79'
+ht-degree: 11%
 
 ---
 
@@ -23,5 +23,6 @@ ht-degree: 12%
    + [從草稿開始設計電子郵件內容](/help/design-the-delivery/create-email-content-from-scratch.md)
    + [使用內容助理建立和改善電子郵件內容](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
 + 設定檔與對象 {#profiles-and-audiences}
-   + [探索設定檔](/help/get-started/explore-profiles.md)
+   + [探索設定檔](/help/profiles-and-audiences/explore-profiles.md)
+   + [管理和建立對象](/help/profiles-and-audiences/manage-and-build-audiences.md)
 + [Campaign使用者端主控台教學課程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html)
