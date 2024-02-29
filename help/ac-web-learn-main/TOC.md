@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Web 使用者介面
 user-guide-description: 瞭解如何使用 Adobe Campaign Web 使用者介面的特性與功能。
 breadcrumb-title: Web 使用者介面 - 教學課程
 auto-video-transcripts: true
-source-git-commit: 29188c839c08ca46313c2d9ea1f50bee2083f14b
+source-git-commit: 05e775e5cde19d739b60bfe2f66edc72eb1c1de2
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 94%
+source-wordcount: '96'
+ht-degree: 83%
 
 ---
 
@@ -21,8 +21,13 @@ ht-degree: 94%
 + 訊息和傳遞 {#messages-and-deliveries}
    + [建立電子郵件傳遞](/help/deliveries/create-an-email-delivery.md)
    + [從草稿開始設計電子郵件內容](/help/design-the-delivery/create-email-content-from-scratch.md)
+   + [透過上傳HTML建立電子郵件](/help/design-the-delivery/create-an-email-by-uploading-html.md)
    + [使用內容助理建立及改善電子郵件內容](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
 + 設定檔與對象 {#profiles-and-audiences}
    + [探索設定檔](/help/profiles-and-audiences/explore-profiles.md)
    + [管理和建立對象](/help/profiles-and-audiences/manage-and-build-audiences.md)
+   + [使用Experience Platform建立對象](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
++ 工作流程 {#workflows}
+   + [建立目標定位工作流程](/help/workflows/create-a-targeting-workflow.md)
 + [Campaign 用戶端主控台教學課程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=zh-Hant)
+
