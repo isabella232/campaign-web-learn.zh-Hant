@@ -8,12 +8,11 @@ doc-type: Feature Video
 duration: 464
 last-substantial-update: 2024-02-08T00:00:00Z
 jira: KT-14454
-thumbnail: 3425796.jpeg
 hidefromtoc: true
 hide: true
 badgeAlpha: label="Alpha" type="informative" before-title="true"
-source-git-commit: 678e0542f8d7b6d8c5b834b8fd3308391cfcb739
-workflow-type: ht
+source-git-commit: 6ae7ba123510d6dc2dbf67561b5b0b2e87823592
+workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 100%
 

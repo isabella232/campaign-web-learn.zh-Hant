@@ -8,8 +8,7 @@ doc-type: Feature Video
 duration: 763
 last-substantial-update: 2024-02-28T00:00:00Z
 jira: KT-14393
-thumbnail: 3425873.jpeg
-source-git-commit: d8264549fbc342889992378fa51dd0759262ca97
+source-git-commit: 6ae7ba123510d6dc2dbf67561b5b0b2e87823592
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 43%
