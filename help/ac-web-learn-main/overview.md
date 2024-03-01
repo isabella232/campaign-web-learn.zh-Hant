@@ -1,17 +1,17 @@
 ---
-title: Adobe Campaign Web 使用者介面
+title: Adobe Campaign網頁使用者介面 — Tutorials
 description: Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用手冊包含了 Adobe Campaign Web 使用者介面特色與功能的相關影片與教學課程。
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 9b6c3185f6e4409ad8dc975fa722c9cf9c140ab6
+source-git-commit: 74d78d04b6e7ad3c2f631a5f01a9bd5ff8061bd3
 workflow-type: tm+mt
-source-wordcount: '269'
-ht-degree: 71%
+source-wordcount: '271'
+ht-degree: 66%
 
 ---
 
-# Adobe Campaign Web 使用者介面
+# Adobe Campaign網頁使用者介面 — Tutorials
 
 Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用手冊包含了Adobe Campaign Web使用者介面特色與功能的相關影片和教學課程。 新影片會定期新增。
 
