@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Web 使用者介面
 user-guide-description: 瞭解如何使用 Adobe Campaign Web 使用者介面的特性與功能。
 breadcrumb-title: Web 使用者介面 - 教學課程
 auto-video-transcripts: true
-source-git-commit: aa26b99fa3ed3f1aad7c2ef684ec8fc7e27daa21
+source-git-commit: 42bc130ee440c3967e5361229a4458689076298d
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 68%
+ht-degree: 64%
 
 ---
 
@@ -31,6 +31,6 @@ ht-degree: 68%
 + 工作流程 {#workflows}
    + [建立目標定位工作流程](/help/workflows/create-a-targeting-workflow.md)
 + Experience League即時錄製 {#exl-live-recordings}
-   + [全新Adobe Campaign Web使用者介面，助您一臂之力](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html)
-+ [Campaign 用戶端主控台教學課程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=zh-Hant)
+   + [全新Adobe Campaign Web使用者介面，助您一臂之力](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html){target="_blank"}
++ [Campaign使用者端主控台教學課程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=zh-Hant){target="_blank"}
 
