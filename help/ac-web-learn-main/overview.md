@@ -4,10 +4,10 @@ description: Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為�
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 93309841439c8d3fcd829b2f73418c66dd4cac11
+source-git-commit: 9b6c3185f6e4409ad8dc975fa722c9cf9c140ab6
 workflow-type: tm+mt
-source-wordcount: '240'
-ht-degree: 79%
+source-wordcount: '269'
+ht-degree: 71%
 
 ---
 
@@ -36,3 +36,10 @@ Campaign Platform 可依據企業與資料需求自訂，且可透過 Campaign �
 
 <div id="staff-picks-section">
 </div>
+
+## Experience League即時活動
+
+* **[全新Adobe Campaign Web使用者介面，助您一臂之力](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html)**
+
+  *瞭解如何在新的使用者體驗中規劃、啟動和衡量跨頻道行銷活動。*
+
