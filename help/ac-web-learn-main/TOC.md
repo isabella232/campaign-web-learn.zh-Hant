@@ -6,9 +6,9 @@ user-guide-description: 瞭解如何使用 Adobe Campaign Web 使用者介面的
 breadcrumb-title: Web 使用者介面 - 教學課程
 auto-video-transcripts: true
 source-git-commit: 42bc130ee440c3967e5361229a4458689076298d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
@@ -21,16 +21,16 @@ ht-degree: 64%
 + 訊息和傳遞 {#messages-and-deliveries}
    + [建立電子郵件傳遞](/help/deliveries/create-an-email-delivery.md)
    + [從草稿開始設計電子郵件內容](/help/design-the-delivery/create-email-content-from-scratch.md)
-   + [透過上傳HTML建立電子郵件](/help/design-the-delivery/create-an-email-by-uploading-html.md)
+   + [透過上傳 HTML 建立電子郵件](/help/design-the-delivery/create-an-email-by-uploading-html.md)
    + [使用內容助理建立及改善電子郵件內容](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
-   + [預覽和校樣電子郵件傳遞](/help/deliveries/preview-and-proof-an-email-delivery.md)
+   + [預覽並校訂電子郵件傳遞](/help/deliveries/preview-and-proof-an-email-delivery.md)
 + 設定檔與對象 {#profiles-and-audiences}
    + [探索設定檔](/help/profiles-and-audiences/explore-profiles.md)
    + [管理和建立對象](/help/profiles-and-audiences/manage-and-build-audiences.md)
-   + [使用Experience Platform建立對象](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
+   + [使用 Experience Platform 建立對象](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + 工作流程 {#workflows}
    + [建立目標定位工作流程](/help/workflows/create-a-targeting-workflow.md)
-+ Experience League即時錄製 {#exl-live-recordings}
-   + [全新Adobe Campaign Web使用者介面，助您一臂之力](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html){target="_blank"}
-+ [Campaign使用者端主控台教學課程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=zh-Hant){target="_blank"}
++ Experience League 直播記錄{#exl-live-recordings}
+   + [全新 Adobe Campaign Web 使用者介面助您一臂之力](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=zh-Hant){target="_blank"}
++ [Campaign 用戶端主控台教學課程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=zh-Hant){target="_blank"}
 
