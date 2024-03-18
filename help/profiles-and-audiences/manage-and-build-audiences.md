@@ -11,7 +11,7 @@ jira: KT-14392
 source-git-commit: 6ae7ba123510d6dc2dbf67561b5b0b2e87823592
 workflow-type: tm+mt
 source-wordcount: '55'
-ht-degree: 18%
+ht-degree: 32%
 
 ---
 
